@@ -1,6 +1,6 @@
 # Group's Ideas App
 
-Application pratique pour créer une liste de tâches ou d'idées et l'utiliser en groupe de coworkers, étudiants ou collègues...
+Application pratique pour créer une liste de tâches ou d'idées et l'utiliser en groupe de coworkers, étudiants ou collègues!
 
 ## Getting Started
 
